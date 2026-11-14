@@ -34,7 +34,7 @@ Use a basic Git Flow model to avoid code conflicts:
 
 ## 4. Quality Gate Before Opening a PR
 
-Before declaring "done", **actually run** the relevant commands and read the output (details in [`CLAUDE.md`](../CLAUDE.md), section 6):
+Before declaring "done", **actually run** the relevant commands and read the output. Only claim what you verified; if you could not run something, say so in the PR:
 
 ```bash
 pnpm build                    # packages → backend → web (in order)

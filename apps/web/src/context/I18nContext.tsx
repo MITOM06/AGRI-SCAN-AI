@@ -4,7 +4,7 @@
  * I18nContext - Quản lý ngôn ngữ hiển thị cho toàn bộ web.
  *
  * Lựa chọn được lưu ở localStorage, đổi ngôn ngữ không reload trang và
- * không đổi URL (xem docs/superpowers/specs/2026-07-27-i18n-vi-en-design.md).
+ * không đổi URL.
  */
 
 import {

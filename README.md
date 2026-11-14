@@ -1,5 +1,7 @@
 # AGRI-SCAN AI | THE SMART PLANT DOCTOR
 
+> 🎓 **Student project** — built by a HUTECH student team for the Website & AI Innovation Contest 2026.
+
 > **Competition entry:** Website & AI Innovation Contest 2026
 
 > **Category:** Track A - Foundation Track
@@ -11,13 +13,11 @@
 <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License MIT">
 </a>
 <img src="https://img.shields.io/badge/Open%20Source-Community-orange?style=for-the-badge" alt="Open Source">
-<img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge" alt="Build Status">
 <img src="https://img.shields.io/badge/Stack-NestJS%20|%20React%20Native%20|%20MongoDB-blue?style=for-the-badge" alt="Tech Stack">
 </p>
 
 ## Quick Links
-* **Website:** [agri-scan-ai](https://agriscan.duckdns.org/) 
-* **Source Code:** [GitHub](https://github.com/MITOM06/AGRI-SCAN-AI-ASA-)
+* **Source Code:** [GitHub](https://github.com/MITOM06/AGRI-SCAN-AI)
 * **Dataset:** [Rice Leaf Diseases Detection - Kaggle](https://www.kaggle.com/datasets/loki4514/rice-leaf-diseases-detection)
 * **Split data (Train/Val/Test):** [Google Drive](https://drive.google.com/drive/folders/1Ebmeq0fpYecxsK6QEL-sqtjTGGQbUFB6?usp=sharing)
 
@@ -269,9 +269,9 @@ The project adopts a **Monolithic** architecture to optimize development time an
 #### 4.1.3. Infrastructure & Deployment 
 * **Containerization:** **Docker & Docker Compose.**
   * The entire backend, MongoDB, and Redis are containerized. Spin up the environment quickly with just `docker-compose up -d`.
-* **Cloud deployment (Hosting):**
-  * Backend & Database: deployed to Google Cloud Platform (GCP).
-  * Web Frontend: deployed via Vercel or Firebase Hosting.
+* **Cloud deployment (Hosting)** — used for the contest demo, since retired:
+  * Backend & Database: Google Cloud Platform (GCP).
+  * Web Frontend: Vercel or Firebase Hosting.
 
 ### 4.2 System architecture
 ---

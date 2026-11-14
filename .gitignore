@@ -49,3 +49,10 @@ __pycache__/
 
 # --- Generated / snapshot artifacts ---
 project_tree.txt
+
+# AI coding-assistant working files (prompts, agent config, specs). Kept locally, never published.
+CLAUDE.md
+**/CLAUDE.md
+.claude/
+_workspace/
+docs/superpowers/

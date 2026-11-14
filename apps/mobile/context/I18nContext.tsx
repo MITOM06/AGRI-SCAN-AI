@@ -6,7 +6,7 @@
  * Từ điển và hàm translate() dùng chung từ @agri-scan/shared.
  *
  * Đặt ở `context/` chứ KHÔNG ở `app/` — mọi file dưới app/ đều thành một route
- * của expo-router (xem apps/mobile/CLAUDE.md).
+ * của expo-router.
  */
 
 import {

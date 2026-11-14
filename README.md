@@ -1,5 +1,7 @@
 # AGRI-SCAN AI | THE SMART PLANT DOCTOR
 
+> 🎓 **Student project** — built by a HUTECH student team for the Website & AI Innovation Contest 2026.
+
 > **Competition entry:** Website & AI Innovation Contest 2026
 
 > **Category:** Track A - Foundation Track

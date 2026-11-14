@@ -7,7 +7,7 @@
   "author": "AGRI-SCAN-AI Team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MITOM06/AGRI-SCAN-AI-ASA-.git"
+    "url": "https://github.com/MITOM06/AGRI-SCAN-AI.git"
   },
   "packageManager": "pnpm@9.15.9",
   "engines": {

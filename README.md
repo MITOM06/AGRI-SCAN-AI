@@ -11,13 +11,12 @@
 <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License MIT">
 </a>
 <img src="https://img.shields.io/badge/Open%20Source-Community-orange?style=for-the-badge" alt="Open Source">
-<img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge" alt="Build Status">
 <img src="https://img.shields.io/badge/Stack-NestJS%20|%20React%20Native%20|%20MongoDB-blue?style=for-the-badge" alt="Tech Stack">
 </p>
 
 ## Quick Links
 * **Website:** [agri-scan-ai](https://agriscan.duckdns.org/) 
-* **Source Code:** [GitHub](https://github.com/MITOM06/AGRI-SCAN-AI-ASA-)
+* **Source Code:** [GitHub](https://github.com/MITOM06/AGRI-SCAN-AI)
 * **Dataset:** [Rice Leaf Diseases Detection - Kaggle](https://www.kaggle.com/datasets/loki4514/rice-leaf-diseases-detection)
 * **Split data (Train/Val/Test):** [Google Drive](https://drive.google.com/drive/folders/1Ebmeq0fpYecxsK6QEL-sqtjTGGQbUFB6?usp=sharing)
 

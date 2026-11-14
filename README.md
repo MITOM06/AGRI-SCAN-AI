@@ -17,7 +17,6 @@
 </p>
 
 ## Quick Links
-* **Website:** [agri-scan-ai](https://agriscan.duckdns.org/) 
 * **Source Code:** [GitHub](https://github.com/MITOM06/AGRI-SCAN-AI)
 * **Dataset:** [Rice Leaf Diseases Detection - Kaggle](https://www.kaggle.com/datasets/loki4514/rice-leaf-diseases-detection)
 * **Split data (Train/Val/Test):** [Google Drive](https://drive.google.com/drive/folders/1Ebmeq0fpYecxsK6QEL-sqtjTGGQbUFB6?usp=sharing)

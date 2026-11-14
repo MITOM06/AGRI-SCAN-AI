@@ -269,9 +269,9 @@ The project adopts a **Monolithic** architecture to optimize development time an
 #### 4.1.3. Infrastructure & Deployment 
 * **Containerization:** **Docker & Docker Compose.**
   * The entire backend, MongoDB, and Redis are containerized. Spin up the environment quickly with just `docker-compose up -d`.
-* **Cloud deployment (Hosting):**
-  * Backend & Database: deployed to Google Cloud Platform (GCP).
-  * Web Frontend: deployed via Vercel or Firebase Hosting.
+* **Cloud deployment (Hosting)** — used for the contest demo, since retired:
+  * Backend & Database: Google Cloud Platform (GCP).
+  * Web Frontend: Vercel or Firebase Hosting.
 
 ### 4.2 System architecture
 ---
